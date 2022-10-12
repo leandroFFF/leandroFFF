@@ -1,8 +1,8 @@
-### Olá eu sou o Leandro França
+## Olá! sou o Leandro França
 
-
-- 🔭 Hoje trabalho com Telecomunicações
-- 🌱 Estudando FullStack e Java
+- 💼 Hoje trabalho com Telecomunicações
+- 🔭 Procurando oportunidades: Frontend Jr | Java Developer Jr
+- 🌱 Estudando FullStack (ProgramadorBR) e Java (DIO)
 - 📧 Contate-me no e-mail: leandrofrancagti@gmail.com
 - 😄 Pronomes: Ele/Dele
 
@@ -34,4 +34,5 @@ Sites Importantes
 https://github.com/anuraghazra/github-readme-stats
 https://devicon.dev
 https://dev.to/
+https://shields.io/
 -->
