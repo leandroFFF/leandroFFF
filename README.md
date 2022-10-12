@@ -35,4 +35,5 @@ https://github.com/anuraghazra/github-readme-stats
 https://devicon.dev
 https://dev.to/
 https://shields.io/
+https://emojipedia.org/
 -->
