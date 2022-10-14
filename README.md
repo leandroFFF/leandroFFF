@@ -4,7 +4,6 @@
 - 🔭 Procurando oportunidades: Frontend Jr | Java Developer Jr
 - 🌱 Estudando FullStack (ProgramadorBR) e Java (DIO)
 - 📧 Contate-me no e-mail: leandrofrancagti@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 
 <div align="center" style="display: inline-block;">
