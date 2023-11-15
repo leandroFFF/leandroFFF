@@ -1,8 +1,8 @@
 ## Olá! sou o Leandro França
 
 - 💼 Hoje trabalho com Telecomunicações
-- 🔭 Procurando oportunidades: Frontend Jr | Java Developer Jr
-- 🌱 Estudando FullStack (ProgramadorBR) e Java (DIO)
+- 🔭 Procurando oportunidades de estágio: Frontend | JavaScript Developer
+- 🌱 Estudando FullStack (ProgramadorBR) | JavaScript (DIO) | React (DIO)
 - 📧 Contate-me no e-mail: leandrofrancagti@gmail.com
 ### Bootcamps: 
       - Potência Tech Powered by IFood - Java Beginners
